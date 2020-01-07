@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="m0U-7z-hvW">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Fire_Acquire" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="kdR-uO-awB">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <color key="tintColor" red="0.82507926229999995" green="0.24930930139999999" blue="0.12933698299999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <connections>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="ZeO-In-mid"/>
+                                </connections>
+                            </mapView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Untitled_Artwork 18" translatesAutoresizingMaskIntoConstraints="NO" id="nEh-to-VMh">
+                                <rect key="frame" x="0.0" y="760" width="414" height="136"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.69638534330985913" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="tintColor" red="0.84463423490524292" green="0.25326588749885559" blue="0.13325744867324829" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="nEh-to-VMh" secondAttribute="height" multiplier="207:68" id="Lsc-WF-Q2G"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="kdR-uO-awB" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="9Va-Gg-qRH"/>
+                            <constraint firstItem="nEh-to-VMh" firstAttribute="leading" secondItem="B29-gh-cKG" secondAttribute="leading" id="DGt-RT-JNF"/>
+                            <constraint firstItem="nEh-to-VMh" firstAttribute="trailing" secondItem="B29-gh-cKG" secondAttribute="trailing" id="Lx1-JG-eID"/>
+                            <constraint firstItem="kdR-uO-awB" firstAttribute="trailing" secondItem="B29-gh-cKG" secondAttribute="trailing" id="Q4X-wM-i9M"/>
+                            <constraint firstItem="kdR-uO-awB" firstAttribute="leading" secondItem="B29-gh-cKG" secondAttribute="leading" id="XfM-qe-m6G"/>
+                            <constraint firstAttribute="bottom" secondItem="kdR-uO-awB" secondAttribute="bottom" id="sCh-xK-9yU"/>
+                            <constraint firstAttribute="bottom" secondItem="nEh-to-VMh" secondAttribute="bottom" id="z5t-px-sau"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="B29-gh-cKG"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="o4G-NT-YeE"/>
+                    <connections>
+                        <outlet property="mapView" destination="kdR-uO-awB" id="0Wp-ha-gPa"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="244.92753623188409" y="310.71428571428572"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="1pK-jF-buM">
+            <objects>
+                <navigationController id="m0U-7z-hvW" sceneMemberID="viewController">
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" barStyle="black" prompted="NO"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="black" id="lan-iE-hxC">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="qqU-Vk-JVE"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xyT-zp-rWA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-518" y="306"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Untitled_Artwork 18" width="2048" height="1536"/>
+    </resources>
+    <color key="tintColor" red="0.8605900407" green="0.36930292840000001" blue="0.35684490200000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+</document>
