@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5ECD4E65-EC65-4E77-9729-BEDDCAB7E2B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5ECD4E65-EC65-4E77-9729-BEDDCAB7E2B3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582973886.13002598</real>
+			<key>timeStoppedRecording</key>
+			<real>582973886.25412595</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>5ECD4E65-EC65-4E77-9729-BEDDCAB7E2B3</string>
+		</dict>
+		<key>5EFCF4F6-5971-44A6-8C78-7BE7EA4A3907</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EFCF4F6-5971-44A6-8C78-7BE7EA4A3907.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582967012.02660894</real>
+			<key>timeStoppedRecording</key>
+			<real>582967012.16537094</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>5EFCF4F6-5971-44A6-8C78-7BE7EA4A3907</string>
+		</dict>
+		<key>5F46AE32-15F6-4522-A82D-5FDEDA15DE48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F46AE32-15F6-4522-A82D-5FDEDA15DE48.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582974139.37853003</real>
+			<key>timeStoppedRecording</key>
+			<real>582974139.52538502</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>5F46AE32-15F6-4522-A82D-5FDEDA15DE48</string>
+		</dict>
+		<key>605305A0-F9D8-453E-9AE1-64AA1EE041F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>605305A0-F9D8-453E-9AE1-64AA1EE041F7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582974118.82678103</real>
+			<key>timeStoppedRecording</key>
+			<real>582974129.78561294</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>605305A0-F9D8-453E-9AE1-64AA1EE041F7</string>
+		</dict>
+		<key>99D0F2FF-CAB1-4492-AA42-D6C24C265CA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99D0F2FF-CAB1-4492-AA42-D6C24C265CA8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582973887.08435905</real>
+			<key>timeStoppedRecording</key>
+			<real>582973887.14849496</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>99D0F2FF-CAB1-4492-AA42-D6C24C265CA8</string>
+		</dict>
+		<key>A381FB0D-0F11-41C1-BB09-A238223DF387</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A381FB0D-0F11-41C1-BB09-A238223DF387.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582973868.01989603</real>
+			<key>timeStoppedRecording</key>
+			<real>582973868.159536</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>A381FB0D-0F11-41C1-BB09-A238223DF387</string>
+		</dict>
+		<key>F8697A87-1878-4B36-8565-BD557C4EC5F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8697A87-1878-4B36-8565-BD557C4EC5F3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fire Acquire project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fire Acquire</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fire Acquire</string>
+			<key>timeStartedRecording</key>
+			<real>582973874.01975298</real>
+			<key>timeStoppedRecording</key>
+			<real>582973874.09334397</real>
+			<key>title</key>
+			<string>Build Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>F8697A87-1878-4B36-8565-BD557C4EC5F3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

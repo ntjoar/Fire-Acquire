@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>98991C98-34E0-4EFB-81F7-EF7857FECBD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>98991C98-34E0-4EFB-81F7-EF7857FECBD9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Fire_Acquire-fqbwfzqxoulkiveibbhwjrfmozwn</string>
+			<key>timeStartedRecording</key>
+			<real>575746404.507833</real>
+			<key>timeStoppedRecording</key>
+			<real>575746406.03461802</real>
+			<key>title</key>
+			<string>Build target Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>98991C98-34E0-4EFB-81F7-EF7857FECBD9</string>
+		</dict>
+		<key>DCEB980C-466D-4359-BA38-ACC4C706E419</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>DCEB980C-466D-4359-BA38-ACC4C706E419.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Fire_Acquire-fxljygkwiepfvtggheyynvtwoqhb</string>
+			<key>timeStartedRecording</key>
+			<real>582974118.98058498</real>
+			<key>timeStoppedRecording</key>
+			<real>582974129.68528104</real>
+			<key>title</key>
+			<string>Build target Fire Acquire</string>
+			<key>uniqueIdentifier</key>
+			<string>DCEB980C-466D-4359-BA38-ACC4C706E419</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
